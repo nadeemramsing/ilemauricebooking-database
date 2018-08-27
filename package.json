@@ -1,0 +1,19 @@
+{
+  "name": "ilemauricebooking-database",
+  "version": "1.0.0",
+  "description": "Building the database container for the new Angular version of http://ilemauricebooking.com.",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "now && now alias"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadeemramsing/ilemauricebooking-database.git"
+  },
+  "author": "Nadeem Ramsing <nadeem.ramsing@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadeemramsing/ilemauricebooking-database/issues"
+  },
+  "homepage": "https://github.com/nadeemramsing/ilemauricebooking-database#readme"
+}
